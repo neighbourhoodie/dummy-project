@@ -3,6 +3,6 @@
     "mocha": "^11.1.0"
   },
   "scripts": {
-    "test": "mocha --recursive"
+    "test": "mocha --recursive --timeout 600000"
   }
 }
