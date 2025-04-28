@@ -7,3 +7,7 @@ describe('project', () => {
     assert.equal(2 + 2, 4)
   })
 })
+
+describe('main', () => {
+  it('is ok', () => {})
+})
