@@ -14,6 +14,8 @@ describe('main', () => {
   it('runs a slow test', async () => {
     await sleep (5 * 60)
   })
+
+  it('just one more thing', () => {})
 })
 
 function sleep (sec) {
