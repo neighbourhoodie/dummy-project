@@ -10,4 +10,6 @@ describe('project', () => {
 
 describe('main', () => {
   it('is ok', () => {})
+
+  it('builds pull requests', () => {})
 })
